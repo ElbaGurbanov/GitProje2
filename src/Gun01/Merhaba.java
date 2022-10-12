@@ -11,6 +11,8 @@ public class Merhaba {
         } while (sayac<5);
         System.out.println("Merhaba Dünya");
 
+        System.out.println("Dördüncü");
+
 
     }
 }
