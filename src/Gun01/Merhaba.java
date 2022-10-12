@@ -9,6 +9,7 @@ public class Merhaba {
             sayac++;
 
         } while (sayac<5);
+        System.out.println("Merhaba Dünya");
 
 
     }
